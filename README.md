@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshumansahay
 - 👀 I’m interested in economics research and data analytics
-- 🌱 I've experience in C/C++, Python and R, and I’m looking forward to learn more
+- 🌱 I've experience in Python, R and C/C++, and I’m looking forward to learn more
 - 📫 You can reach me at www.anshumansahay.com and anshumansahay@icloud.com
 
 <!---
